@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <li>index</li>
+    <li>about</li>
     <Nav>
         <ul>
             <li><a href="index.php" target="_blank">Home</a></li>

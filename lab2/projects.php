@@ -1,6 +1,6 @@
 <?php
-    $pageTitle = "Contact Me";
-    $pageHeader = "Let's Connect";
+    $pageTitle = "My Projects";
+    $pageHeader = "Software & Video Projects";
 ?>
 <html>
     <head>
@@ -19,12 +19,12 @@
         <table width="100%" cellpadding="10">
             <tr>
                 <td width="60%" valign="top">
-                    <p>This page contains my contact information.</p>
+                    <p>This page showcases my recent work.</p>
                     <br>
-                    <p>Feel free to reach out if you want to collaborate on coding tasks, discuss video creation, or team up for some gaming.</p>
+                    <p>Here you will find my early programming assignments in C++, as well as my video editing projects using tools like DaVinci Resolve and CapCut</p>
                 </td>
                 <td width="40%" align="center" valign="top">
-                    <img src="https://png.pngtree.com/png-vector/20230925/ourmid/pngtree-contact-us-phone-icon-blue-button-glassy-png-image_10111757.png" alt="Contact Icon" width="300">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVxJGZOIBOVKPhJPuooo4Nl0cWQrrx4YQvVnBY0IzF381DdfABST3Byg&s=10" alt="Code" width="300">
                 </td>
             </tr>
         </table>
